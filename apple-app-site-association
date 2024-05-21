@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appId": "FNLGBR4S7N.digital.vee.employee",
+        "paths": [
+          "/order-card",
+          "/travel"
+        ]
+      }
+    ]
+  }
+}
