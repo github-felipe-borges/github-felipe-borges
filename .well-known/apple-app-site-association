@@ -3,9 +3,11 @@
     "apps": [],
     "details": [
       {
-        "appID": "FNLGBR4S7N.digital.vee.employee",
-        "paths": [
-          "/"
+        "appIDs": [
+            "FNLGBR4S7N.digital.vee.employee"
+        ],
+        "components": [
+          "/": "/*/*"
         ]
       }
     ]
