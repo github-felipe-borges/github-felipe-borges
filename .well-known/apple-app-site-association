@@ -3,13 +3,10 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [
-            "FNLGBR4S7N.digital.vee.employee"
-        ],
-        "components": [
-          {
-            "/": "/*/*"
-          }
+        "appID": "FNLGBR4S7N.digital.vee.employee",
+        "paths": [
+          "/order-card",
+          "/travel"
         ]
       }
     ]
