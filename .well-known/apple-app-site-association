@@ -6,9 +6,11 @@
         "appIDs": [
             "FNLGBR4S7N.digital.vee.employee"
         ],
-        "components": {
-          "/": "/*/*"
-        }
+        "components": [
+          {
+            "/": "/*/*"
+          }
+        ]
       }
     ]
   }
